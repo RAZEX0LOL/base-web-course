@@ -21,6 +21,7 @@
 
   1.Основы веб-разработки
     https://elderly-gallium-848.notion.site/1-8c63de29a0164d01965333b98e1093c5?pvs=4
+    
   2.Введение в HTML
     https://elderly-gallium-848.notion.site/2-HTML-ee889d72cfc84edbb3be098e3fff5f35?pvs=4
 
