@@ -25,6 +25,9 @@
   2.Введение в HTML
     https://elderly-gallium-848.notion.site/2-HTML-ee889d72cfc84edbb3be098e3fff5f35?pvs=4
 
+  3.Основные HTML-теги
+    https://elderly-gallium-848.notion.site/3-HTML-1703a521591347e2aefe4ef4b1deeacb?pvs=4
+
 ## Контактная информация
 
 Если у вас возникнут вопросы, пожалуйста, свяжитесь со мной:
