@@ -31,6 +31,9 @@
   4.Списки и таблицы
     https://elderly-gallium-848.notion.site/4-5b669cac4dc54c8899246cb4c1b24747?pvs=4
 
+  5.Формы
+    https://elderly-gallium-848.notion.site/5-f167c35918fc41b8a2fdd0cecce330cc?pvs=4
+
 ## Контактная информация
 
 Если у вас возникнут вопросы, пожалуйста, свяжитесь со мной:
