@@ -34,6 +34,9 @@
   5.Формы
     https://elderly-gallium-848.notion.site/5-f167c35918fc41b8a2fdd0cecce330cc?pvs=4
 
+  6.Семантические теги
+    https://elderly-gallium-848.notion.site/6-bb9d116b231e4f849b4a331c9b2aaceb?pvs=4
+
 ## Контактная информация
 
 Если у вас возникнут вопросы, пожалуйста, свяжитесь со мной:
