@@ -26,7 +26,10 @@
     https://elderly-gallium-848.notion.site/2-HTML-ee889d72cfc84edbb3be098e3fff5f35?pvs=4
 
   3.Основные HTML-теги
-    https://elderly-gallium-848.notion.site/3-HTML-1703a521591347e2aefe4ef4b1deeacb?pvs=4
+    https://elderly-gallium-848.notion.site/3-HTML-1703a521591347e2aefe4ef4b1deeacb?pvs=4\
+
+  4.Списки и таблицы
+    https://elderly-gallium-848.notion.site/4-5b669cac4dc54c8899246cb4c1b24747?pvs=4
 
 ## Контактная информация
 
