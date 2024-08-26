@@ -46,6 +46,9 @@
   9.Отступы и границы в CSS
     https://elderly-gallium-848.notion.site/9-CSS-1a2edeae8d834bd496a2cf619a046bc1
 
+  10.Модель отображения (Box Model)
+    https://elderly-gallium-848.notion.site/10-Box-Model-7f42904b7f5745aeab054962db685ee6
+
 ## Контактная информация
 
 Если у вас возникнут вопросы, пожалуйста, свяжитесь со мной:
