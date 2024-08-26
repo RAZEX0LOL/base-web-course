@@ -49,6 +49,9 @@
   10.Модель отображения (Box Model)
     https://elderly-gallium-848.notion.site/10-Box-Model-7f42904b7f5745aeab054962db685ee6
 
+  11.FlexBox
+    https://elderly-gallium-848.notion.site/11-Flexbox-f9363a954df04ebe8f7fdccf45f19c18
+
 ## Контактная информация
 
 Если у вас возникнут вопросы, пожалуйста, свяжитесь со мной:
