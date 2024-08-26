@@ -43,6 +43,9 @@
   8.Введение в CSS
     https://elderly-gallium-848.notion.site/9-CSS-c443fbb285984577aa2a35b37551568e?pvs=4
 
+  9.Отступы и границы в CSS
+    https://elderly-gallium-848.notion.site/9-CSS-1a2edeae8d834bd496a2cf619a046bc1
+
 ## Контактная информация
 
 Если у вас возникнут вопросы, пожалуйста, свяжитесь со мной:
